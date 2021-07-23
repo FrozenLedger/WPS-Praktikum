@@ -20,7 +20,7 @@ This repository is solely for the documentation and distribution of the source c
 The task for the students is to document and research or develop a blockchain project, concept or similiar.
 The scope of the work is set to 12 hours and should not exceed this. The theme of the work is up to the students to decide.
 
-The smart contract that is required for this project was ist awailable on the Kovan Testnetwork.
+The smart contract that is required for this project is awailable on the kovan testnetwork.
 You can find the contract following this link:
     
     https://kovan.etherscan.io/address/0x4f8de941147d05b3a1ae30fe7290449598890e0f
