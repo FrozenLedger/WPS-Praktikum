@@ -3,12 +3,6 @@ import "./shop.css";
 import CreditStore from "./components/CreditStore";
 import { ABI, CONTRACT_ADDRESS } from "./components/constants";
 
-/*
-async function enableMetamask() {
-  await window.ethereum.enable();
-}
-*/
-
 function App() {
   const Web3 = require("web3");
   const web3 = new Web3(window.ethereum);
