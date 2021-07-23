@@ -25,4 +25,4 @@ You can find the contract following this link:
     
     https://kovan.etherscan.io/address/0x4f8de941147d05b3a1ae30fe7290449598890e0f
 
-The source code of the smart contract is visible and verified on Etherscan and because of that it is not included in this repository.
+The source code of the smart contract is visible and verified on Etherscan and not included in this repository because of that.
