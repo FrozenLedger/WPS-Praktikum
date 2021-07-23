@@ -10,4 +10,4 @@ Der Smart Contract der für dieses Projekt benötigt wird, ist auf dem Kovan Tes
     
     https://kovan.etherscan.io/address/0x4f8de941147d05b3a1ae30fe7290449598890e0f
 
-Der Quellcode wurde auf dieser Seite ebenfalls verifiziert und einsehbar und aus diesem Grund nicht in diesem Repository enthalten.
+Der Quellcode ist auf Etherscan ebenfalls verifiziert und einsehbar und aus diesem Grund nicht in diesem Repository enthalten.
