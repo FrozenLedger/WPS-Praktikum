@@ -1,4 +1,4 @@
-# WPS-Praktikum
+# WPS-Praktikum / WPS-Practical
 
 **(scroll down for the englisch translation)**
 
