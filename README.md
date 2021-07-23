@@ -14,6 +14,7 @@ Der Smart Contract der für dieses Projekt benötigt wird, ist auf dem Kovan Tes
 
 Der Quellcode ist auf Etherscan ebenfalls verifiziert und einsehbar und aus diesem Grund nicht in diesem Repository enthalten.
 
+---
 
 This repository is solely for the documentation and distribution of the source code, which was created for the pratical of the module "Weiterführende Programmiersprachen SS2021" of the Bochum Hochschule - University of Applied Siences.
 
