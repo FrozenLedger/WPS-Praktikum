@@ -1,6 +1,6 @@
 # WPS-Praktikum
 
-(scroll down for the englisch translation)
+**(scroll down for the englisch translation)**
 
 Dieses Repository dient der Dokumentation und Bereitstellung der im Rahmen des Praktikums, des an der Hochschule Bochum angebotenen Moduls "Weiterführende Programmiersprachen SS2021", erarbeiteten Quellcodes.
 
